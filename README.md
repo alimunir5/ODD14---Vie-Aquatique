@@ -23,7 +23,7 @@ Ce projet est un site web dédié à la sensibilisation et à l'information sur 
    ```
 2. **Accéder au dossier du projet**
    ```bash
-   cd ODD14---Vie-Aquatique
+   cd ODD14---Vie-Aquatique/projet
    ```
 3. **Ouvrir le fichier `index.html`** dans un navigateur web
 
