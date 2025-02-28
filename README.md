@@ -19,11 +19,11 @@ Ce projet est un site web dédié à la sensibilisation et à l'information sur 
 ## Installation et utilisation
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/votre-utilisateur/odd14-site-web.git
+   git clone https://github.com/alimunir5/ODD14---Vie-Aquatique
    ```
 2. **Accéder au dossier du projet**
    ```bash
-   cd odd14-site-web
+   cd ODD14---Vie-Aquatique
    ```
 3. **Ouvrir le fichier `index.html`** dans un navigateur web
 
