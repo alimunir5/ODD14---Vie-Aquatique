@@ -16,17 +16,6 @@ Ce projet est un site web dédié à la sensibilisation et à l'information sur 
 - **JavaScript** : Interactivité et animations
 - **Bootstrap** (optionnel) : Framework CSS pour un design moderne et adaptatif
 
-## Installation et utilisation
-1. **Cloner le dépôt**
-   ```bash
-   git clone https://github.com/alimunir5/ODD14---Vie-Aquatique
-   ```
-2. **Accéder au dossier du projet**
-   ```bash
-   cd ODD14---Vie-Aquatique/projet
-   ```
-3. **Ouvrir le fichier `index.html`** dans un navigateur web
-
 ## Contributions
 Les contributions sont les bienvenues ! N'hésitez pas à proposer des améliorations via des pull requests ou à signaler des problèmes en ouvrant des issues.
 
